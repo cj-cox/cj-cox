@@ -1,16 +1,27 @@
-## Hi there 👋
+# Christopher (CJ) Cox - Data Analytics Portfolio
 
-<!--
-**cj-cox/cj-cox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm CJ, a passionate data analytics enthusiast. I'm currently expanding my skills in Python, Tableau, and SQL focusing on data visualization, statistical analysis, and Python development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   Python (Pandas, NumPy, Matplotlib, Seaborn)
+*   SQL
+*   Tableau
+*   Data Cleaning & Preprocessing
+*   Data Visualization
+*   Statistical Analysis
+
+## Projects
+
+| Project Name | Description | Repository Link |
+|---|---|---|
+| ... (Add more projects) ... |
+
+## Contact
+
+*   LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/cjcoxdata/)
+*   Email: [Email](siege912@hotmail.com)
+
+## GitHub Profile
+
+[GitHub Profile](https://github.com/cj-cox)
