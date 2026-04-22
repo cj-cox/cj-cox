@@ -15,7 +15,7 @@ Hi, I'm CJ, a passionate data analytics enthusiast. I'm currently expanding my s
 
 | Project Name | Description | Repository Link |
 |---|---|---|
-| Sales Performance Analysis | Analyzed sales data to identify trends and insights. | [Sales Performance Analysis Repo](sales-performance-analysis) |
+| Sales Performance Analysis | Analyzed sales data to identify trends and insights. | [Sales Performance Analysis Repo](sales-performance-analysis/README.md) |
 
 ## Contact
 
