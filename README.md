@@ -20,8 +20,4 @@ Hi, I'm CJ, a passionate data analytics enthusiast. I'm currently expanding my s
 ## Contact
 
 *   [LinkedIn](https://www.linkedin.com/in/cjcoxdata/)
-*   [Email](christopher.cj.cox@icloud.com)
-
-## GitHub Profile
-
-[GitHub Profile](https://github.com/cj-cox)
+*   [Email](mailto:christopher.cj.cox@icloud.com)
