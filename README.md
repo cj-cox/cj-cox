@@ -4,7 +4,7 @@ Hi, I'm CJ, a passionate data analytics enthusiast. I'm currently expanding my s
 
 ## Skills
 
-*   Python (Pandas, NumPy, Matplotlib, Seaborn)
+*   Python (Pandas, NumPy, Matplotlib, Seaborn, Pyinstaller)
 *   SQL
 *   Tableau
 *   Data Cleaning & Preprocessing
