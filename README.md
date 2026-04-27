@@ -15,7 +15,7 @@ Hi, I'm CJ, a passionate data analytics enthusiast. I'm currently expanding my s
 
 | Project Name | Description | Repository Link |
 |---|---|---|
-| TimeKeeper Python app with Python web app | Utilized AI assistance to develop a cross-platform standalone app that includes a web-based dashboard | [TimeKeeper Repo](https://github.com/cj-cox/python_projects/tree/main/timekeeper) |
+| Python app with Python web app | Utilized AI assistance to develop a cross-platform standalone app that includes a web-based dashboard | [TimeKeeper Repo](https://github.com/cj-cox/python_projects/tree/main/timekeeper) |
 | Sales Performance Analysis | Analyzed sales data to identify trends and insights. | [Sales Performance Analysis Repo](https://github.com/cj-cox/data-analytics-projects/tree/main/sales-performance-analysis) |
 
 ## Contact
